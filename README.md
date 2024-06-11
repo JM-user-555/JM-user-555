@@ -1,7 +1,7 @@
 - 👋 Hi, I’m JM-user-555
-- 👀 I’m interested in Front-end Web Development
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on web development projects
+- 👀 I’m interested in Web Development and Machine Learning
+- 🌱 I’m currently learning React.js and Machine Learning
+- 💞️ I’m looking to collaborate on web development projects and python projects
 - 📫 How to reach me ? You can contact me on gmail jadmattar4@gmail.com
 
 <!---
